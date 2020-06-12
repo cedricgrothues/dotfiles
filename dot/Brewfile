@@ -1,0 +1,13 @@
+brew 'node'
+brew 'cocoapods'
+brew 'yarn'
+brew 'dart'
+brew 'httpie'
+brew 'python@3.8'
+brew 'mas'
+
+cask 'google-chrome'
+cask 'github'
+cask 'visual-studio-code'
+cask 'insomnia'
+cask 'discord'
