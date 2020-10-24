@@ -12,6 +12,5 @@ brew 'yarn'
 
 cask 'discord'
 cask 'github'
-cask 'google-chrome'
 cask 'insomnia'
 cask 'visual-studio-code'
