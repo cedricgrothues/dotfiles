@@ -1,10 +1,6 @@
 brew 'bat'
-brew 'cocoapods'
-brew 'dart'
 brew 'gh'
 brew 'go'
-brew 'httpie'
-brew 'python@3.9'
+brew 'python'
 
-cask 'github'
 cask 'visual-studio-code'
