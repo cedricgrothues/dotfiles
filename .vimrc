@@ -10,8 +10,3 @@ set autoindent
 set hlsearch
 set number
 set ruler
-
-noremap <Up> <Nop>
-noremap <Down> <Nop>
-noremap <Left> <Nop>
-noremap <Right> <Nop>
