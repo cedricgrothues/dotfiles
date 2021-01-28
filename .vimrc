@@ -10,3 +10,6 @@ set smartindent
 set hlsearch
 set incsearch
 set number
+
+set noerrorbells
+set visualbell
