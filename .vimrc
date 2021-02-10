@@ -14,3 +14,5 @@ set number
 set noerrorbells
 set visualbell
 set t_vb=
+
+set background=dark
